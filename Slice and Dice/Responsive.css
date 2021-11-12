@@ -1,0 +1,238 @@
+@media screen and (max-width: 1280px) and (min-width: 1024px){
+	#navigation{
+	    width: 90%;
+	    height: 20%;
+	    padding: 10px;
+	}
+	#main-header{
+		width: 100%;
+		padding-bottom: 10%;
+	}
+	.head-one{
+		padding-top: 5%;
+		font-size: 40px;
+	}
+	.head-para{
+		font-size: 12px;
+	}
+	#btn-header{
+		width: 15%;
+		padding: 8px 8px;
+	}
+	#navigation a{
+		padding: 5px;
+		font-size: 15px;
+	}
+	.row{
+		display: table-cell;
+	}
+	#article-three{
+		display: flex;
+		margin: 3%;
+	}
+
+	.person-card{
+		margin: 10px;
+		width: 25%
+	}
+	.person-card img{
+		width: 200px;
+		height: 200px;
+	}
+	.person-card p{
+		font-size: 15px; 
+	}
+}
+@media screen and (max-width: 1024px) and (min-width: 768px){
+	#navigation{
+	    width: 90%;
+	    height: 20%;
+	    padding: 5px;
+	}
+	#logo{
+		width: 100px;
+		height: 20px;
+	}
+
+	#main-header{
+		width: 100%;
+		padding-bottom: 10%;
+	}
+	.head-one{
+		padding-top: 5%;
+		font-size: 30px;
+	}
+	.head-para{
+		font-size: 8px;
+	}
+	#btn-header{
+		width: 15%;
+		padding: 8px 8px;
+		font-size: 10px; 
+	}
+	#navigation a{
+		padding: 5px;
+		font-size: 15px;
+	}
+	.row{
+		display: block;
+	}
+	#article-three{
+		margin: 10%;
+	}
+
+	.person-card{
+		margin: 10px;
+		width: 25%
+	}
+	.person-card img{
+		width: 150px;
+		height: 150px;
+	}
+	.carousel-quote{
+		font-size: 25px;
+		width: 43%;
+	}
+}	
+@media screen and (max-width: 768px) and (min-width: 480px){
+	#navigation{
+	    width: 90%;
+	    height: 20%;
+	    padding: 5px;
+	}
+	#logo{
+		width: 100px;
+		height: 20px;
+	}
+
+	#main-header{
+		width: 100%;
+		padding-bottom: 10%;
+	}
+	.head-one{
+		padding-top: 5%;
+		font-size: 30px;
+	}
+	.head-para{
+		font-size: 8px;
+	}
+	#btn-header{
+		width: 15%;
+		padding: 8px 8px;
+		font-size: 10px; 
+	}
+	#navigation a{
+		padding: 5px;
+		font-size: 15px;
+	}
+	.row{
+		display: block;
+	}
+	#article-three{
+		margin: 10%;
+	}
+
+	.person-card{
+		margin: 10px;
+		width: 23%
+	}
+	.person-card p{
+		font-size: 10px;
+	}
+	.person-card img{
+		width: 150px;
+		height: 150px;
+	}
+	.carousel-image{
+		height: 350px;
+	}
+	.carousel-quote{
+		font-size: 20px;
+		width: 38%;
+	}
+	.carousel-person{
+		font-size: 9px;
+	}
+	#information i {
+    	width: 13px;
+	}
+	#p-article-five{
+		font-size: 10px;
+	}
+	#head-article-five{
+		font-size: 20px;
+	}
+}
+@media screen and (max-width: 480px) and (min-width: 200px){
+	#navigation{
+	    width: 90%;
+	    height: 20%;
+	    padding: 10px;
+	}
+	#main-header{
+		width: 100%;
+		padding-bottom: 10%;
+	}
+	.head-one{
+		padding-top: 5%;
+		font-size: 20px;
+	}
+	.head-para{
+		font-size: 8px;
+	}
+	#btn-header{
+		width: 30%;
+		padding: 8px 8px;
+		font-size: 10px; 
+	}
+	#navigation a{
+		padding: 2px;
+		font-size: 10px;
+		display: table-caption;
+	}
+	.row{
+		display: block;
+	}
+	#article-three{
+		display: block;
+		margin: 3%;
+		text-align: center;
+	}
+	.carousel-image{
+		height: 350px;
+		width: 100%;
+		float: none;
+	}
+	.carousel-quote{
+		font-size: 20px;
+		width: 100%;
+		float: none;
+	}
+	.carousel-person{
+		font-size: 9px;
+	}
+	#information i {
+    	width: 13px;
+	}
+	#p-article-five{
+		font-size: 10px;
+	}
+	#head-article-five{
+		font-size: 20px;
+	}
+	.person-card{
+		margin: 10px;
+		width: 90%
+	}
+	.person-card img{
+		width: 150px;
+		height: 150px;
+	}
+	.person-card p{
+		font-size: 15px; 
+	}	
+	#btn-bottom{
+		font-size: 10px;
+		width: 30%;
+	}
+}
